@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "version": "1.2.0",
    "description": "A simple npm project for learning purposes",
    "license": "MIT",
    "keywords": [ "descriptive", "related", "words","freecodecamp" ],
