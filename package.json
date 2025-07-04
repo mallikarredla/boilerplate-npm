@@ -1,10 +1,12 @@
 {
   "name": "fcc-learn-npm-package-json",
+   "description": "A simple npm project for learning purposes",
+   "keywords": [ "descriptive", "related", "words" ],
   "author": "Mallikarjuna Karedla",
   "dependencies": {
     "express": "^4.14.0"
   },
-  "description": "A project that does something awesome",
+  
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
