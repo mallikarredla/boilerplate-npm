@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
    "description": "A simple npm project for learning purposes",
+   "license": "MIT",
    "keywords": [ "descriptive", "related", "words","freecodecamp" ],
   "author": "Mallikarjuna Karedla",
   "dependencies": {
